@@ -1,12 +1,12 @@
 """Write the one-word Wi-Fi entry to entry.txt.
 
-The word is the Wi-Fi's own signature lie: full bars, "Connected",
-nothing loading — it gaslights you.
+The word is the Wi-Fi's own bluff: a full house of bars, an empty hand —
+it shows you five bars, then folds the moment you actually need it.
 """
 
 import os
 
-WORD = "Gaslighting"
+WORD = "Bluff"
 
 output_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(output_dir, exist_ok=True)

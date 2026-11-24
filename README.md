@@ -6,7 +6,7 @@
 
 One word describing my home Wi-Fi, entered in the [One Word for Your Wi-Fi](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72) bounty on make.fun.
 
-The word is **Gaslighting** — full bars, "Connected", nothing loading. My Wi-Fi doesn't just drop; it insists everything is fine while loading nothing, and makes me question my own sanity. The most recognisable home Wi-Fi lie there is, in a single word.
+The word is **Bluff** — a full house of bars and an empty hand. My Wi-Fi shows five bars, then folds the moment I actually need it: the connection is a poker bluff, all confidence and no cards behind it. The most recognisable home Wi-Fi lie there is, in a single word.
 
 ## Run it
 
